@@ -70,8 +70,7 @@
             "responses": ["To set up UPI, link your bank account to Google Pay, PhonePe, or Paytm and create a UPI PIN.",
                           "UPI apps include Google Pay, PhonePe, Paytm, and BHIM UPI.",
                           "UPI is safe if you do not share your PIN or OTP with anyone."]
-        }
-        
+        },       
     {
         "tag": "greeting",
         "patterns": [
